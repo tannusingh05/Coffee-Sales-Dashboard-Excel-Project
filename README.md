@@ -9,7 +9,7 @@ Excel | Pivot Tables | Slicers | Charts | Conditional Formatting | Data Cleaning
 
 ## 📈 Dashboard Preview
 <p align="center">
-  <img src="https://github.com/tannusingh05/Coffee_Sales_Dashboard_Excel/blob/main/Coffee_Sales_Snapshot.jpg" width="900" alt="Coffee Sales Excel Dashboard">
+  <img src="https://github.com/tannusingh05/Coffee-Sales-Dashboard-Excel-Project/blob/main/Snapshort_Coffee_Sales_Dasboard.jpg" width="900" alt="Coffee Sales Excel Dashboard">
 </p>
 
 ## 🎯 Key Insights
